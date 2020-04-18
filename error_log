@@ -1,0 +1,2 @@
+[27-Feb-2020 18:15:48 Europe/Berlin] PHP Fatal error:  Out of memory (allocated 961544192) (tried to allocate 4194304 bytes) in phar:///opt/cpanel/composer/bin/composer/src/Composer/DependencyResolver/RuleSet.php on line 84
+[27-Feb-2020 18:52:10 Europe/Berlin] PHP Parse error:  syntax error, unexpected '?' in /home/udros/public_html/school_fairs/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
